@@ -1,15 +1,6 @@
 <h2 align="left">💫 About Me:</h2>
-
-###
-
 <p align="left">🔭 I’m currently student at freshworks</p>
-
-###
-
 <p align="left">👨‍💻 I’m looking to expand my knowledge in IT field</p>
-
-###
-
 <p align="left">🌱 I’m currently learning Full-stack web development</p>
 
 ###
